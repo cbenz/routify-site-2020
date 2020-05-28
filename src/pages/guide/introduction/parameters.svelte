@@ -43,6 +43,7 @@
     {`
         import { params } from '@sveltech/routify'
         $: { slug } = $params
+    
     `}
   </Prism>
 
